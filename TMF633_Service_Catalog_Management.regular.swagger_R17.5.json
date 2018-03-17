@@ -5,8 +5,8 @@
         "description": "This is Swagger UI environment generated for the TMF Service Catalog Management specification", 
         "version": "2.0"
     }, 
-    "host": "biologeek.orange-labs.fr", 
-    "basePath": "/tmf-api/serviceCatalogManagement", 
+    "host": "serverRoot", 
+    "basePath": "/tmf-api/serviceCatalogManagement/v2/", 
     "schemes": [
         "https"
     ], 
