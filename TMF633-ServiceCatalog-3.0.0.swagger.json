@@ -3,10 +3,10 @@
     "info": {
         "title": "Service Catalog Management", 
         "description": "## TMF API Reference: TMF633 - Service Catalog Management\n\n### Release : 18.5 - December 2018\n\nService Catalog API is one of Catalog Management API Family. Service Catalog API goal is to provide a catalog of services. \n\n### Resource \n- serviceCatalog\n\n### Operations\nService Catalog API performs the following operations on the resource :\n- Retrieve an entity or a collection of entities depending on filter criteria\n- Partial update of an entity (including updating rules)\n- Create an entity (including default values and creation rules)\n- Delete an entity (for administration purposes)\n- Manage notification of events", 
-        "version": "4.0.0"
+        "version": "3.0.0"
     }, 
     "host": "serverRoot", 
-    "basePath": "/tmf-api/serviceCatalogManagement/v4/", 
+    "basePath": "/tmf-api/serviceCatalogManagement/v3/", 
     "schemes": [
         "https"
     ], 
